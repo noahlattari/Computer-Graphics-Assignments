@@ -1,3 +1,5 @@
+So you may notice assignment 2 is missing, that's because it was really bad.
+
 Noah Lattari
 Assignment 3:
 
