@@ -1,4 +1,4 @@
-# :rocket: **Computer Graphics OpenGL Projects** :rocket:
+# :rocket: **Computer Graphics OpenGL Assignments** :rocket:
 
 These are a collection of my projects in my Computer Graphics class. Each assignment involves manipulating a 3D flying drone. 
 
