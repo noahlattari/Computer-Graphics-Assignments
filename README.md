@@ -14,6 +14,3 @@ When you first spawn in you can use the mouse to drag the camera to see better, 
 Be behind a building but just drag it slightly left or right to view the scene better.
 
 When launched, hit f1 for the controls.
-
-
-
